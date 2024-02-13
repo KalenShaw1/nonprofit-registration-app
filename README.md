@@ -1,1 +1,1 @@
-# nonprofit-registration-app
+Welcome Team to our temp repo for testing out the Nonprofit validation form. Currently, there is a simple frontend that is being developed to fetch thTe api/webhooks from the Percent API. You will also need a tool to call the API like Postman. You can download postman or you can use the online web browser version. The workspace is NTA Testing workspace. An invite was sent to your emails.
